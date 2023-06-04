@@ -1,0 +1,31 @@
+Atlanta
+Dallas
+Denver
+Kansas City
+Boston
+Buffalo
+Charlotte
+Chicago
+Cleveland
+Detroit
+Miami
+New Jersey
+New York
+Orlando
+Philadelphia
+South Bend
+Washington Dc
+Bend
+Las Vegas
+Los Angeles
+Phoenix
+San Francisco
+San Jose
+Santa Clara
+Seattle
+Halifax
+Montreal
+Toronto
+Vancouver
+Vienna
+

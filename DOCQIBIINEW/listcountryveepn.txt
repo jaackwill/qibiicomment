@@ -1,0 +1,148 @@
+AUSTRALIA
+Adelaide
+Brisbane
+Melbourne
+Perth
+Sydney
+AUSTRIA
+Vienna
+BELARUS
+Minsk
+BELGIUM
+brussels
+BRAZIL
+sao Paulo
+BULGARIA
+sofia
+CANADA
+british Clumbia
+Ontario
+Quebec
+CHILE
+Santiago
+COLOMBIA
+Bogota
+COSTA RICA
+Costa rica
+CYPRUS
+Limassol
+CZECH REPUBLIC
+Prague
+DENMARK
+Copenhagen
+EGYPT
+cairo
+FINLAND
+helsinki
+FRANCE
+paris
+GERMANY
+Berlin
+Frankfurt am main
+Dusseldorf
+GREECE
+Athens
+HONG KONG
+tsuen wan
+kwai chung
+kwun tong
+tung chung
+wanchai
+HUNGARY
+Budapest
+ICELAND
+hafnarfjordur
+INDIA
+bengaluru
+mumbai
+pune
+INDONESIA
+jakarta
+IRELAND
+dublin
+ISRAEL
+tel aviv
+ITALY
+milan
+palermo
+Rome
+JAPAN
+minato
+shibuya
+shinagawa
+KAZAKHSTAN
+almaty
+LATVIA
+riga
+LUXEMBOURG
+MALAYSIA
+Kuala Lumpur
+MOLDOVA
+chisinau
+NETHERLANDS
+Amsterdams
+NEW ZEALAND
+Auckland
+NORWAY
+oslo
+PANAMA
+panama
+POLAND
+warsaw
+PORTUGAL
+Lisbon
+ROMANIA
+bucharest
+RUSSIA
+moscow
+saint petersburg
+khabarovsk
+krasnoyarsk
+novosibirsk
+vladivostok
+yekaterlinburg
+SERBIA
+belgrade
+SINGAPORE
+alexandria
+queenstown
+tanglin
+SLOVAKIA
+bratislava
+SOUTH AFRICA
+johannesburg
+SOUTH KOREA
+seoul
+SPAIN
+barcelona
+madrid
+SWITZERLAND
+zurich
+THAILAND
+bangkok
+TURKEY
+istanbul
+UAE
+dubai
+UK
+london
+gloucester
+manchester
+UKRAINE
+kharkiv
+USA
+arizona
+california
+colorado
+florida
+illinois
+nevada
+new jersey
+new york
+texas
+virginia
+washington
+georgia
+VIETNAM
+Ha noi
+Ho chi minh

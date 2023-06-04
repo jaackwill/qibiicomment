@@ -1,0 +1,36 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "moment.js", "moment-timezone-with-data.js", "data/offsets.js", "resolve.js", "background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "data/inject.js" ],
+      "match_about_blank": true,
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "This extension alters browser timezone to a random or user-defined value.",
+   "homepage_url": "http://add0n.com/spoof-timezone.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyaMq4LlsmucEDGzVQqY3Y/rh6ATHkEJ2bk2X1HcfiBBuQjvsixbEgi1Rp8JJryFN1BDZVMLBDBwENwKF+RPeDQwiAvD7paz8YQ0pxGwZyyaeNH0Rh/9nbyx/wr5ID/21HEXzjPvKF/KURBXkzjsz0FNV5wXq/5JwpsAQJ2BSa8KDJzcFwcqQbxjOn2XxnGjijwb4Lq0lsNjUZUZ6qXC9KIdXAWBCMNB234zo95HsU8pc44VJhjO9xkRh6qI5i8pXUdmfTv35swfGZ2LzPh5acIAeVmBnbeuApQpkzk5mllR5rrEGM0lTWaorcD9KYJXq7RkwOfq6EDdQBRwWs4jD3QIDAQAB",
+   "manifest_version": 2,
+   "name": "Spoof Timezone",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "data/options/index.html"
+   },
+   "permissions": [ "storage", "*://*/*", "webNavigation", "contextMenus", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.7"
+}
